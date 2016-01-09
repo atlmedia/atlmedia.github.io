@@ -1,8 +1,9 @@
 
 body {
     font-family: 'Arial', serif;
-    background-color: blue; 
-    color: red;
+    background-color: lightslategray; 
+    color: royalblue ;
+    text-align: center;
     padding: 3px;
 }
 
@@ -10,13 +11,13 @@ body {
     padding: 5px;
     padding-left:  15px;
     padding-right: 15px;
-    background-color: blue;
+    background-color: lightslategray;
     border-radius: 0 0 5px 5px;
 }
 
 h1 {
     font-family: Arial, serif;
-    border-bottom: 3px solid blue;
-    color: green;
+    border-bottom: 3px solid lightslategray;
+    color: royalblue;
     font-size: 30px;
 }
