@@ -1,8 +1,8 @@
-<link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'> 
+
 body {
-    font-family: 'Slabo 27px', serif;
+    font-family: 'Arial', serif;
     background-color: blue; 
-    color: #696969;
+    color: red;
     padding: 3px;
 }
 
@@ -10,13 +10,13 @@ body {
     padding: 5px;
     padding-left:  15px;
     padding-right: 15px;
-    background-color: #ffffff;
+    background-color: blue;
     border-radius: 0 0 5px 5px;
 }
 
 h1 {
-    font-family: Georgia, serif;
-    border-bottom: 3px solid #cc9900;
-    color: #996600;
+    font-family: Arial, serif;
+    border-bottom: 3px solid blue;
+    color: green;
     font-size: 30px;
 }
