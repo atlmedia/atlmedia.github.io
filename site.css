@@ -1,0 +1,22 @@
+<link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'> 
+body {
+    font-family: 'Slabo 27px', serif;
+    background-color: blue; 
+    color: #696969;
+    padding: 3px;
+}
+
+#main {
+    padding: 5px;
+    padding-left:  15px;
+    padding-right: 15px;
+    background-color: #ffffff;
+    border-radius: 0 0 5px 5px;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    border-bottom: 3px solid #cc9900;
+    color: #996600;
+    font-size: 30px;
+}
